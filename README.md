@@ -9,8 +9,11 @@ S C H E M A T I C S I M U L A T I O N - PROCEDURE FOR CREATING THE SCHEMATIC SIM
 1.Right Click and open the terminal window
 
 2.Type the following commands as follows and press enter. • csh • source /cadence/install/cshrc • virtuoso Procedure for Schematic simulation using Cadence
+
 3.Now two windows must open i) virtuoso/command interpreter window ii)”Whats New…”
+
 4.Close the 2nd window
+
 5.Use 1st window i.e virtuoso window (CIW) for further processing. i. Create a New Library ii. Create Schematic Cell view. iii. Create the Symbol for schematic Cell view. iv. Create the test Cell view. v. Analog simulation by spectre
 # i) Procedure for Creating New Library.
  File –New – Library • Name: Give name for ur library Ex: VLSILAB_EXP_1 • Enable Attach to an existing technology library, Click OK • Attach the library to the technology library gpdk045.Click OK
@@ -33,7 +36,9 @@ For Transient Analysis Settings and Output
 ## Results:
 
 1.Successfully designed the CMOS inverter schematic using Cadence EDA tools.
+
 2.The simulation results demonstrated the correct logic operation of the inverter, where the output voltage switches between high (Vdd) and low (0V) levels, corresponding to the input voltage transitions.
+
 3.The Voltage Transfer Characteristic (VTC) curve was plotted, showing the relationship between input and output voltages.
 
 
