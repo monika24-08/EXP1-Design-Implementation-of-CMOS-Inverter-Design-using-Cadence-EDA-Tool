@@ -33,6 +33,7 @@ Analog simulation by SPECTRE. • In test cell view window • Launch – ADE L(
 <img width="866" height="633" alt="image" src="https://github.com/user-attachments/assets/11e27169-94a9-4351-93a6-916744b81310" />
 For Transient Analysis Settings and Output
 <img width="507" height="599" alt="image" src="https://github.com/user-attachments/assets/e553d8f0-cd6e-4879-aede-795c5ea37b86" />
+
 <img width="1480" height="785" alt="image" src="https://github.com/user-attachments/assets/801fac0e-85ee-4986-9b04-90aa596038cc" />
 
 
